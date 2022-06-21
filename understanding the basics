@@ -1,0 +1,5 @@
+The cpu consists of the ALU or the the arithematic and logical unit, memory made from registers and latche.
+we are going to build every component required to build the 8 bit cpu from the ground up.
+Fisrt comes the gates which constitute the framework of all logical operations.
+They are the and , or, not, xor, nand, & nor gates.
+THE AND gate.
